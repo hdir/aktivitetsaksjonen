@@ -20,4 +20,6 @@ Behov og krav for løsningen.
 
 Benytte [OpenAthlete](https://openathlete.org/) som grunnleggende plattform. Lage en lokal løsning for resultatlister som benytter OpenAthlete sitt API for å hente data, organisere lag(?) og sette opp resultatlister. Open Athlete integrerer mot Garmin, Polar, Corus, Suunto og Strava (men mangler Wahoo). Det er også egen app for Android (IOS kommer).
 
-* Bruke [Coach API](https://api.openathlete.org/docs#/Coach) for å hente data til resultatlister? 
+* Bruke [Club API](https://api.openathlete.org/docs#/Clubs) for å hente data til resultatlister?
+* Bruke [Coach API](https://api.openathlete.org/docs#/Coach) for å hente data til resultatlister?
+* Bruke [Groups API](https://api.openathlete.org/docs#/Athlete%20groups) for å håndtere grupper i klubben?
